@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ameya Kamat from India.
 - 👀 I’m interested in Open Source Software and Projects.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and NextJS Framework.
 - 📫 You can reach me at ameya@duck.com
 
 <!---
